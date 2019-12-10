@@ -1,11 +1,16 @@
 _repo: When-Day-is-Done_60849
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60849-h/images/cover.jpg
 creator:
   author:
     agent_name: Castle, Arnold
     gutenberg_agent_id: '26853'
     url: http://www.gutenberg.org/2009/agents/26853
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60849#When-Day-is-Done
 gutenberg_issued: '2019-12-05'
 gutenberg_type: Text
 identifiers:
